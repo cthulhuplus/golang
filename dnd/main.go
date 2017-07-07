@@ -2,14 +2,15 @@ package main
 
 import (
   "fmt"
-  "math/rand"
-  "time"
+//  "math/rand"
+//  "time"
+//  "."
 )
 
-func random(min, max int) int {
-  rand.Seed(time.Now().Unix())
-  return rand.Intn(max-min) + min
-}
+//func random(min, max int) int {
+//  rand.Seed(time.Now().Unix())
+//  return rand.Intn(max-min) + min
+//}
 
 func main() {
   fourSide := random(1, 4)
