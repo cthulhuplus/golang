@@ -1,2 +1,7 @@
+.gitignore
+aws
 CloudFoundation*
 beachparty
+github.com
+golang.org
+gopkg.in
