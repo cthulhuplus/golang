@@ -5,19 +5,12 @@ import (
 	"math/rand"
 	"time"
 	"sort"
-	//  "."
 )
 
 func random(min, max int) int {
 	rand.Seed(time.Now().Unix())
 	return rand.Intn(max-min) + min
 }
-
-//func attributes() {
-//	str := fourSide x 6
-//	var str []int
-//	str = append(str, sixSide)
-//}
 
 func main() {
 	fourSide := random(1, 4)
