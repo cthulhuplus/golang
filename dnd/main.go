@@ -41,7 +41,7 @@ func main() {
 	fmt.Println("D12 Roll:", twelveSide)
 	fmt.Println("D20 Roll:", twentySide)
 
-	fmt.Println("Strength Rolls:", str)
-	fmt.Println("Strength Kept:", str[1:4])
-	fmt.Println("Strength Score:", strsum)
+	fmt.Println("Attribute1 Rolls:", str)
+	fmt.Println("Attribute1 Kept:", str[1:4])
+	fmt.Println("Attribute1 Score:", strsum)
 }
