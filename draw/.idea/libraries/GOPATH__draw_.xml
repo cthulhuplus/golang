@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;draw&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golangdc" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../pingtool" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationDashboard" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../upload" />
+      <root url="file://$PROJECT_DIR$/../beachparty" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationManager" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../healthcheck" />
+      <root url="file://$PROJECT_DIR$/../dnd" />
+      <root url="file://$PROJECT_DIR$/../aws" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationDevelopment" />
+      <root url="file://$PROJECT_DIR$/../stackskills" />
+      <root url="file://$PROJECT_DIR$/../forjordan" />
+      <root url="file://$PROJECT_DIR$/../billysdragonquest" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../golangdc" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../pingtool" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationDashboard" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../upload" />
+      <root url="file://$PROJECT_DIR$/../beachparty" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationManager" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../healthcheck" />
+      <root url="file://$PROJECT_DIR$/../dnd" />
+      <root url="file://$PROJECT_DIR$/../aws" />
+      <root url="file://$PROJECT_DIR$/../CloudFoundationDevelopment" />
+      <root url="file://$PROJECT_DIR$/../stackskills" />
+      <root url="file://$PROJECT_DIR$/../forjordan" />
+      <root url="file://$PROJECT_DIR$/../billysdragonquest" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
